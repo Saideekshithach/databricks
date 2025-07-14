@@ -1,0 +1,1 @@
+python,git,sdlc,pyspark,sql,gcp,data bricks
